@@ -8,7 +8,7 @@ I am a Junior Web Developer, who loves using different programming  technologies
 - <a href="https://www.linkedin.com/in/andree-campos-247900121/"><img align="left" 
  src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Andree | LinkedIn" width="21px"/>Andree Campos </a>
  
-- <a href="https://andreework.com/">:globe_with_meridians: My Website </a> 
+- <a href="https://andreework.com/">:globe_with_meridians:  My Website </a> 
  
                                                    
 
