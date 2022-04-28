@@ -1,12 +1,14 @@
 
 ## Hi, I'm Andree 👋
 
-##### :mortar_board: Full-Stack Web Developer Student. 
+### :mortar_board: Full-Stack Web Developer Student :technologist:. 
+I am a Junior Web Developer, who loves using different programming  technologies such as React j's, JavaScript, Node j's, mongodb, amongst others
 
-## Find me around the web 🌎:
-<a href="https://www.linkedin.com/in/andree-campos-247900121/"><img align="left" 
- src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Andree | LinkedIn" width="21px"/></a>
-<a href="https://andreework.com/">My Website :globe_with_meridians:</a> 
+### Find me around the web 🌎:
+- <a href="https://www.linkedin.com/in/andree-campos-247900121/"><img align="left" 
+ src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Andree | LinkedIn" width="21px"/> Andree Campos </a>
+ 
+- <a href="https://andreework.com/"> My Website :globe_with_meridians: </a> 
  
                                                    
 
