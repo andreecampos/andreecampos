@@ -2,7 +2,7 @@
 ## Hi, I'm Andree 👋
 
 ### :mortar_board: Full-Stack Web Developer :technologist:. 
-I am a Junior Web Developer, who loves using different programming  technologies such as React j's, JavaScript, Node j's, mongodb, amongst others
+I am a Full-Stack Web Developer, who loves using different programming  technologies such as React j's, JavaScript, Node j's, mongodb, amongst others
 
 ### Find me around the web 🌎:
 - <a href="https://www.linkedin.com/in/andree-campos-247900121/"><img align="left" 
